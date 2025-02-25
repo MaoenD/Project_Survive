@@ -15,7 +15,7 @@ Survive is a first-person survival game where you must find different chest too 
 ### Project Details
 Developed for: Ynov Campus
 Engine: Unity
-Genre: FPS / Survival 🧩
+Genre: FPS / Survival 
 
 ###  Installation & Running
 1. Download the game from itch.io
