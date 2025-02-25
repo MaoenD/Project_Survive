@@ -4,7 +4,7 @@
 ## About the Game
 Survive is a first-person survival game where you must find different chest too get your lantern to see where you are walking, your trusted gun and some bullet to shoot the zombie that will pursue you till one of you triumph.
 
-#### Play Now: UVTO on [Itch.io](https://maoeny.itch.io/survive)
+#### Play Now: Survive on [Itch.io](https://maoeny.itch.io/survive)
 
 
 ### Controls
